@@ -5,7 +5,7 @@ public class StudentRunner {
         student1.printStudentInfo();
 
         Student student2 = new Student("Jen", 18, 58, 4.0);
-        student2.printCatInfo();
+        student2.printStudentInfo();
         student2.introduce();
     }
 }

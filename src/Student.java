@@ -3,7 +3,7 @@ public class Student {
 
     private int age;
 
-    private double height
+    private double height;
 
     private double gpa;
 
